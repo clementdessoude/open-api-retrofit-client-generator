@@ -1,0 +1,25 @@
+
+Æ
+java:S1598"¯This file "ProjectForm.java" should be located in "fr/bpifrance/subscription/dtos" directory, not in "/Users/clementdessoude/Desktop/openapi-retrofit-generator/examples/dtos".(™µ¶İ
+A
+java:S1068"-Remove this unused "createdBy" private field.(êÍÏÖ
+K
+java:S1068"2Remove this unused "lastModifiedBy" private field.(äõñ²úÿÿÿÿ
+H
+java:S1068"4Remove this unused "lastModifiedDate" private field.(õÂ±ï
+C
+java:S1068"/Remove this unused "createdDate" private field.(–§öæ
+:
+java:S1068"&Remove this unused "id" private field.(æ¨ç†
+A
+java:S1068"(Remove this unused "slug" private field.(’‚¦Ğøÿÿÿÿ
+C
+java:S1068"*Remove this unused "fields" private field.(¬ÄÇûÿÿÿÿ
+K
+java:S1068"8Remove this unused "formCompletionStatus" private field.(¨’x
+J
+java:S1068"6Remove this unused "submissionDatetime" private field.(¿ñÛ
+D
+java:S1068"0Remove this unused "assignedUser" private field.(‘ú°ò
+R
+java:S1068"<Remove this unused "permissionNameWithAccess" private field.(úÕ®·

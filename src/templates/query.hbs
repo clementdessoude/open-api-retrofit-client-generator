@@ -1,0 +1,23 @@
+@{{ method }}("{{ path}}")
+Call<{{responseDto}}> {{methodName}}(
+  {{#each pathParameters}}
+    {{>pathParameter}}
+  {{/each}}
+  {{#if shouldAddCommaAfterPathParameter}}, {{/if}}
+  {{#if requestBodyDto}}@Body {{requestBodyDto}} {{requestBodyDtoName}}{{/if}}
+  {{#if shouldAddCommaAfterRequestBody}}, {{/if}}
+  {{#each queryParameters}}
+    {{>queryParameter}}
+  {{/each}}
+
+);
+
+
+{{#*inline "pathParameter"}}
+  {{#if @index}}, {{/if}}@Path({{name}}) {{type}} {{name}}
+{{/inline}}
+
+{{#*inline "queryParameter"}}
+  {{#if @index}}, {{/if}}@Query({{name}}) {{type}} {{name}}
+{{/inline}}
+

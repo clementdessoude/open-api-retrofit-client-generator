@@ -1,0 +1,10 @@
+
+g
+java:S1128"QRemove this unused import 'fr.bpifrance.shared.client.product.output.ProductDto'.(“—Ÿ³
+o	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯µÒÜùÿÿÿÿ8»½ç€/
+j	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Œœñ8»½ç€/
+p	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïâşÿÿÿÿ8»½ç€/
+k	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğĞûË8»½ç€/
+p	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆİ÷Ïşÿÿÿÿ8»½ç€/
+k	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µöß˜8»½ç€/
+p	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠàÜæúÿÿÿÿ8»½ç€/

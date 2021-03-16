@@ -1,0 +1,24 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "handlebars": "4.7.7",
+    "handlebars-loader": "^1.7.1",
+    "js-yaml": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.0",
+    "openapi-types": "^7.2.3",
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.2.3",
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

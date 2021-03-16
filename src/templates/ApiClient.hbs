@@ -1,0 +1,9 @@
+package {{apiPackage}};
+
+{{>imports}}
+
+public interface {{className}} {
+{{#each queries}}
+  {{>query}}
+{{/each}}
+}
